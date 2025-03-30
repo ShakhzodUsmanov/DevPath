@@ -1,0 +1,412 @@
+{
+  "learn": [
+    [
+      "https://javascript.info/",
+      {
+        "ru": "JavaScript.info — подробный учебник по JavaScript",
+        "uz": "JavaScript.info — batafsil JavaScript qo‘llanmasi",
+        "en": "JavaScript.info — detailed JavaScript tutorial"
+      }
+    ],
+    [
+      "https://frontendmentor.io/",
+      {
+        "ru": "Frontend Mentor — практика на макетах",
+        "uz": "Frontend Mentor — dizayn asosida amaliyot",
+        "en": "Frontend Mentor — layout-based practice"
+      }
+    ],
+    [
+      "https://www.theodinproject.com/",
+      {
+        "ru": "The Odin Project — полный фронтенд-курс",
+        "uz": "The Odin Project — to‘liq frontend kursi",
+        "en": "The Odin Project — full frontend course"
+      }
+    ],
+    [
+      "https://www.freecodecamp.org/",
+      {
+        "ru": "freeCodeCamp — интерактивные уроки и проекты",
+        "uz": "freeCodeCamp — interaktiv darslar va loyihalar",
+        "en": "freeCodeCamp — interactive lessons and projects"
+      }
+    ],
+    [
+      "https://web.dev/learn/",
+      {
+        "ru": "web.dev от Google — современные веб-технологии",
+        "uz": "web.dev (Google) — zamonaviy web texnologiyalar",
+        "en": "web.dev by Google — modern web technologies"
+      }
+    ],
+    [
+      "https://metanit.com/",
+      {
+        "ru": "Metanit — теоретическая база по разным языкам программирования",
+        "uz": "Metanit — turli dasturlash tillari uchun nazariy baza",
+        "en": "Metanit — theoretical base for various programming languages"
+      }
+    ],
+    [
+      "https://www.sammi.ac/",
+      {
+        "ru": "Sammi Academy — онлайн курсы и обучающие материалы",
+        "uz": "Sammi Academy — onlayn kurslar va materiallar",
+        "en": "Sammi Academy — online courses and tutorials"
+      }
+    ]
+  ],
+  "practice": [
+    [
+      "https://codepen.io/",
+      {
+        "ru": "CodePen — песочница для кода",
+        "uz": "CodePen — код учун қумлоқ майдон",
+        "en": "CodePen — code sandbox"
+      }
+    ],
+    [
+      "https://devchallenges.io/",
+      {
+        "ru": "DevChallenges — реальные проекты",
+        "uz": "DevChallenges — ҳақиқий лойиҳалар",
+        "en": "DevChallenges — real-world projects"
+      }
+    ],
+    [
+      "https://www.frontendpractice.com/",
+      {
+        "ru": "Frontend Practice — практика UI",
+        "uz": "Frontend Practice — UI амалиёти",
+        "en": "Frontend Practice — UI practice"
+      }
+    ],
+    [
+      "https://github.com/codecrafters-io/build-your-own-x",
+      {
+        "ru": "Build Your Own X — сделай сам проекты",
+        "uz": "Build Your Own X — ўзинг ярат лойиҳалари",
+        "en": "Build Your Own X — DIY projects"
+      }
+    ],
+    [
+      "https://javascript30.com/",
+      {
+        "ru": "JavaScript30 — 30 мини-проектов на чистом JavaScript",
+        "uz": "JavaScript30 — sof JavaScript asosidagi 30 mini-loyiha",
+        "en": "JavaScript30 — 30 mini-projects with pure JavaScript"
+      }
+    ]
+  ],
+  "career": [
+    [
+      "https://linkedin.com/",
+      {
+        "ru": "LinkedIn — сеть профессионалов",
+        "uz": "LinkedIn — профессионаллар тармоғи",
+        "en": "LinkedIn — professional network"
+      }
+    ],
+    [
+      "https://www.upwork.com/",
+      {
+        "ru": "Upwork — фриланс-проекты",
+        "uz": "Upwork — фриланс лойиҳалар",
+        "en": "Upwork — freelance projects"
+      }
+    ],
+    [
+      "https://career.habr.com/",
+      {
+        "ru": "Habr Career — вакансии и резюме",
+        "uz": "Habr Career — иш ўринлари ва резюмелар",
+        "en": "Habr Career — jobs and resumes"
+      }
+    ],
+    [
+      "https://www.glassdoor.com/",
+      {
+        "ru": "Glassdoor — обзоры компаний",
+        "uz": "Glassdoor — компаниялар шарҳлари",
+        "en": "Glassdoor — company reviews"
+      }
+    ],
+    [
+      "https://hh.uz/",
+      {
+        "ru": "hh.uz — поиск работы в Узбекистане",
+        "uz": "hh.uz — Ўзбекистонда иш қидириш",
+        "en": "hh.uz — job search in Uzbekistan"
+      }
+    ]
+  ],
+  "algorithms": [
+    [
+      "https://leetcode.com/",
+      {
+        "ru": "LeetCode — задачи и подготовка к собеседованиям",
+        "uz": "LeetCode — интервьюга тайёргарлик ва масалалар",
+        "en": "LeetCode — coding challenges and interview prep"
+      }
+    ],
+    [
+      "https://www.codewars.com/",
+      {
+        "ru": "Codewars — алгоритмические задачи",
+        "uz": "Codewars — алгоритмли масалалар",
+        "en": "Codewars — algorithmic coding challenges"
+      }
+    ],
+    [
+      "https://frontendinterviewhandbook.com/",
+      {
+        "ru": "Frontend Interview Handbook — гайд по собеседованиям",
+        "uz": "Frontend Interview Handbook — интервью қўлланмаси",
+        "en": "Frontend Interview Handbook — interview preparation guide"
+      }
+    ]
+  ],
+  "community": [
+    [
+      "https://www.reddit.com/r/webdev/",
+      {
+        "ru": "Reddit /r/webdev — сообщество разработчиков",
+        "uz": "Reddit /r/webdev — веб-дастурчилар жамоаси",
+        "en": "Reddit /r/webdev — web development community"
+      }
+    ],
+    [
+      "https://dev.to/",
+      {
+        "ru": "dev.to — блог-платформа для разработчиков",
+        "uz": "dev.to — дастурчилар учун блог платформаси",
+        "en": "dev.to — blogging platform for developers"
+      }
+    ],
+    [
+      "https://hashnode.com/",
+      {
+        "ru": "Hashnode — публикации и общение",
+        "uz": "Hashnode — мақолалар ва мулоқот",
+        "en": "Hashnode — articles and community discussions"
+      }
+    ]
+  ],
+  "youtube": [
+    [
+      "https://www.youtube.com/@javascriptmastery",
+      {
+        "ru": "🇺🇸 JavaScript Mastery — продвинутые проекты на React",
+        "uz": "🇺🇸 JavaScript Mastery — илгарги React лойиҳалари",
+        "en": "🇺🇸 JavaScript Mastery — advanced React projects"
+      }
+    ],
+    [
+      "https://www.youtube.com/@lundeveloper",
+      {
+        "ru": "🇺🇸 Lun Developer — обучение frontend разработке",
+        "uz": "🇺🇸 Lun Developer — frontend дастурлашни ўрганиш",
+        "en": "🇺🇸 Lun Developer — frontend development tutorials"
+      }
+    ],
+    [
+      "https://www.youtube.com/@merionacademy",
+      {
+        "ru": "🇺🇸 Merion Academy — React и JS с практикой",
+        "uz": "🇺🇸 Merion Academy — амалиёт билан React ва JS",
+        "en": "🇺🇸 Merion Academy — practical React and JS tutorials"
+      }
+    ],
+    [
+      "https://www.youtube.com/@coding2go",
+      {
+        "ru": "🇺🇸 Coding2Go — React, HTML/CSS/JS краткие уроки",
+        "uz": "🇺🇸 Coding2Go — қисқа React, HTML/CSS/JS дарслар",
+        "en": "🇺🇸 Coding2Go — short lessons on React, HTML/CSS/JS"
+      }
+    ],
+    [
+      "https://www.youtube.com/@codewithantonio/videos",
+      {
+        "ru": "🇺🇸 Code with Antonio — полные приложения с нуля",
+        "uz": "🇺🇸 Code with Antonio — 0дан тўлиқ иловалар",
+        "en": "🇺🇸 Code with Antonio — full applications from scratch"
+      }
+    ],
+    [
+      "https://www.youtube.com/@koshachiya_batsyla",
+      {
+        "ru": "🇷🇺 Кошачья БацЫла — понятное объяснение сложных тем",
+        "uz": "🇷🇺 Кошачья БацЫла — қийин мавзуларни оддий тушунтириш",
+        "en": "🇷🇺 Koshachya Batsyla — clear explanation of complex topics"
+      }
+    ],
+    [
+      "https://www.youtube.com/@fakng-engineer",
+      {
+        "ru": "🇷🇺 Fakng Engineer — бэкенд, фронтенд и карьера",
+        "uz": "🇷🇺 Fakng Engineer — бекенд, фронтенд ва карьера",
+        "en": "🇷🇺 Fakng Engineer — backend, frontend, and career"
+      }
+    ],
+    [
+      "https://www.youtube.com/@VladilenMinin",
+      {
+        "ru": "🇷🇺 Владилен Минин — от основ до React/Node.js",
+        "uz": "🇷🇺 Владилен Минин — асослардан React/Node.js гача",
+        "en": "🇷🇺 Vladilen Minin — from basics to React/Node.js"
+      }
+    ],
+    [
+      "https://www.youtube.com/@UlbiTV",
+      {
+        "ru": "🇷🇺 Ulbi TV — большие проекты, архитектура, React",
+        "uz": "🇷🇺 Ulbi TV — катта лойиҳалар, архитектура, React",
+        "en": "🇷🇺 Ulbi TV — large projects, architecture, React"
+      }
+    ],
+    [
+      "https://www.youtube.com/@PurpleSchool",
+      {
+        "ru": "🇷🇺 Purple School — курсы по фуллстек разработке",
+        "uz": "🇷🇺 Purple School — фуллстек дастурлаш курслари",
+        "en": "🇷🇺 Purple School — full-stack development courses"
+      }
+    ],
+    [
+      "https://www.youtube.com/@UlugbekSamigjonov",
+      {
+        "ru": "🇺🇿 Ulugbek Samigjonov — веб-разработка на узбекском",
+        "uz": "🇺🇿 Ulugbek Samigjonov — ўзбек тилида веб дастурлаш",
+        "en": "🇺🇿 Ulugbek Samigjonov — web development in Uzbek"
+      }
+    ],
+    [
+      "https://www.youtube.com/@akhrorweb/playlists",
+      {
+        "ru": "🇺🇿 Akhror Web — уроки по HTML, CSS, JS",
+        "uz": "🇺🇿 Akhror Web — HTML, CSS, JS дарслари",
+        "en": "🇺🇿 Akhror Web — HTML, CSS, JS tutorials"
+      }
+    ]
+  ],
+  "games": [
+    [
+      "https://learngitbranching.js.org/?locale=ru_RU",
+      {
+        "ru": "Learn Git Branching — визуальное обучение Git",
+        "uz": "Learn Git Branching — Git'ни визуал ўрганиш",
+        "en": "Learn Git Branching — visual Git learning game"
+      }
+    ],
+    [
+      "https://flexboxfroggy.com/#ru",
+      {
+        "ru": "Flexbox Froggy — игра по изучению Flexbox",
+        "uz": "Flexbox Froggy — Flexbox ўйин орқали ўрганиш",
+        "en": "Flexbox Froggy — game for learning Flexbox"
+      }
+    ],
+    [
+      "https://cssgridgarden.com/#ru",
+      {
+        "ru": "Grid Garden — игра по изучению CSS Grid",
+        "uz": "Grid Garden — CSS Grid'ни ўйин орқали ўрганиш",
+        "en": "Grid Garden — game for learning CSS Grid"
+      }
+    ],
+    [
+      "https://flukeout.github.io/",
+      {
+        "ru": "CSS Diner — практика CSS селекторов в виде игры",
+        "uz": "CSS Diner — CSS селекторларини ўйинда амалий ўрганиш",
+        "en": "CSS Diner — practice CSS selectors through a game"
+      }
+    ]
+  ],
+  "ai": [
+    [
+      "https://chatgpt.com/",
+      {
+        "ru": "ChatGPT — помощник в программировании и обучении",
+        "uz": "ChatGPT — дастурлаш ва ўрганиш ёрдамчиси",
+        "en": "ChatGPT — assistant for coding and learning"
+      }
+    ],
+    [
+      "https://chat.deepseek.com/",
+      {
+        "ru": "DeepSeek — AI-ассистент для разработчиков",
+        "uz": "DeepSeek — дастурчилар учун AI ёрдамчи",
+        "en": "DeepSeek — AI assistant for developers"
+      }
+    ],
+    [
+      "https://grok.com/",
+      {
+        "ru": "Grok — нейросеть от X (Elon Musk)",
+        "uz": "Grok — X (Elon Musk) томонидан яратилган нейросеть",
+        "en": "Grok — neural network by X (Elon Musk)"
+      }
+    ],
+    [
+      "https://gemini.google.com/",
+      {
+        "ru": "Gemini — искусственный интеллект от Google",
+        "uz": "Gemini — Google'нинг сунъий интеллекту",
+        "en": "Gemini — artificial intelligence by Google"
+      }
+    ],
+    [
+      "https://gamma.app/create",
+      {
+        "ru": "Gamma — создание презентаций и контента с AI",
+        "uz": "Gamma — AI ёрдамида презентация ва контент яратиш",
+        "en": "Gamma — create presentations and content with AI"
+      }
+    ],
+    [
+      "https://suno.com/",
+      {
+        "ru": "Suno AI — генерация музыки с помощью ИИ",
+        "uz": "Suno AI — AI ёрдамида мусиқа яратиш",
+        "en": "Suno AI — music generation with AI"
+      }
+    ]
+  ],
+  "typing": [
+    [
+      "https://typerun.top/#eng_adv",
+      {
+        "ru": "TypeRun — тренажер слепой печати с рейтингами",
+        "uz": "TypeRun — рейтингли тез ёзиш тренажёри",
+        "en": "TypeRun — touch typing trainer with ratings"
+      }
+    ],
+    [
+      "https://monkeytype.com/",
+      {
+        "ru": "Monkeytype — стильный и гибкий тренажер",
+        "uz": "Monkeytype — зўр дизайн ва созламали тренажёр",
+        "en": "Monkeytype — stylish and customizable typing trainer"
+      }
+    ],
+    [
+      "https://play.typeracer.com/",
+      {
+        "ru": "TypeRacer — печать в соревновательном режиме",
+        "uz": "TypeRacer — тез ёзиш бўйича мусобақа",
+        "en": "TypeRacer — competitive typing game"
+      }
+    ],
+    [
+      "https://www.typingstudy.com/ru-russian-3/lesson/1/part/4",
+      {
+        "ru": "TypingStudy — пошаговое обучение печати",
+        "uz": "TypingStudy — босқичма-босқич ёзиш ўрганиш",
+        "en": "TypingStudy — step-by-step typing lessons"
+      }
+    ]
+  ]
+}

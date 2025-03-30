@@ -1,0 +1,15 @@
+{
+  "title": "Mustaqil o‘rganish uchun resurslar",
+  "description": "Kurs bitiruvchilari uchun foydali saytlar to‘plami",
+  "sections": {
+    "learn": "📚 Ta'limni davom ettirish",
+    "practice": "🎯 Amaliyot va loyihalar",
+    "career": "👨‍💼 Ish qidirish va frilans",
+    "algorithms": "🧠 Algoritmlar va suhbatlar",
+    "community": "👥 Hamjamiyatlar va ilhom",
+    "youtube": "📺 YouTube kanallari",
+    "games": "🎮 O'yinli o'rgatuvchi vositalar",
+    "ai": "🤖 Sun'iy intellekt vositalari",
+    "typing": "⌨️ Klaviatura mashqlari"
+  }
+}

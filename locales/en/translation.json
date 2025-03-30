@@ -1,0 +1,15 @@
+{
+  "title": "Resources for Self-Learning",
+  "description": "A collection of helpful websites for course graduates",
+  "sections": {
+    "learn": "📚 Continue Learning",
+    "practice": "🎯 Practice and Projects",
+    "career": "👨‍💼 Job Search and Freelancing",
+    "algorithms": "🧠 Algorithms and Interviews",
+    "community": "👥 Communities and Inspiration",
+    "youtube": "📺 YouTube Channels",
+    "games": "🎮 Learning Games and Visualization",
+    "ai": "🤖 AI Tools",
+    "typing": "⌨️ Typing Trainers"
+  }
+}
